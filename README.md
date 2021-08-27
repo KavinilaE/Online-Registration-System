@@ -1,0 +1,2 @@
+# Student-Management-System
+Student Management system: In this project there are four modules. They are Home, Student, Staff, Course details. In Student we can able to register for the courses and also able to view our details,If we want to delete or edit we can do. In staff we can able to  see how many students registered for which courses and all student details. In course details we can see all available courses and their details. I create this project my using JSP, MySQL.
